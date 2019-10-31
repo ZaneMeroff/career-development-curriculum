@@ -4,6 +4,7 @@ In interviews, you'll be asked about how you approach working in projects, and b
 With that in mind, please answer the following questions in your own gist about your group project:
 
 1. What have you learned about the use of agile vs. waterfall in software projects? 
+**Answer:** jsdfljdslfjdslfk
 
 2. How did you and your group approach project management in this project (what tools did you use, how did you hold each other accountable, etc.)?
 
